@@ -39,8 +39,9 @@ jobs:
         app-id: ${{ vars.TERRAFORM_APP_ID }}
         private-key: ${{ secrets.PRIVATE_KEY }}
         permission-actions: write
+        owner: ${{ github.repository_owner }}
         repositories: |
-          miljodir/${{ vars.TERRAFORM_REPO_NAME }}
+          ${{ vars.TERRAFORM_REPO_NAME }}
     - name: Repository Dispatch
       uses: peter-evans/repository-dispatch@v3
       with:
