@@ -32,8 +32,19 @@ jobs:
     needs: [update-blocklist]
     runs-on: ubuntu-latest
     steps:
+    - uses: actions/create-github-app-token@v2
+      id: app-token
+      with:
+        # required
+        app-id: ${{ vars.TERRAFORM_APP_ID }}
+        private-key: ${{ secrets.PRIVATE_KEY }}
+        permission-actions: write
+        repositories: |
+          miljodir/${{ vars.TERRAFORM_REPO_NAME }}
     - name: Repository Dispatch
-      uses: peter-evans/repository-dispatch@v2
+      uses: peter-evans/repository-dispatch@v3
       with:
         event-type: blocklist-updated
+        token: ${{ steps.app-token.outputs.token }}
+        repository: miljodir/${{ vars.TERRAFORM_REPO_NAME }}
         client-payload: '{"ref": "${{ github.ref }}", "sha": "${{ github.sha }}"}'
