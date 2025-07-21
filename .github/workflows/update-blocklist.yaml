@@ -18,13 +18,13 @@ jobs:
 
       - name: Remove first 11 lines
         run: |
-          tail -n +12 blocklist.txt > c:\appl\repos\dns-blocklists\pro.mini-onlydomains.txt
+          tail -n +12 blocklist.txt > pro.mini-onlydomains.txt
 
       - name: Commit and push changes
         run: |
           git config --local user.name "github-actions[bot]"
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git add c:\appl\repos\dns-blocklists\pro.mini-onlydomains.txt
+          git add pro.mini-onlydomains.txt
           git commit -m "Update processed blocklist"
           git push
 
