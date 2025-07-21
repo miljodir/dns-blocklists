@@ -38,7 +38,7 @@ jobs:
         # required
         app-id: ${{ vars.TERRAFORM_APP_ID }}
         private-key: ${{ secrets.PRIVATE_KEY }}
-        permission-actions: write
+        permission-contents: write
         owner: ${{ github.repository_owner }}
         repositories: |
           ${{ vars.TERRAFORM_REPO_NAME }}
