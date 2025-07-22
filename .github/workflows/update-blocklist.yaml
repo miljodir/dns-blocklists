@@ -27,13 +27,13 @@ jobs:
         run: |
           tail -n +12 pro-mini-onlydomains.txt > pro.mini-onlydomains.txt
           tail -n +11 tif-mini-onlydomains.txt > tif.mini-onlydomains.txt
-          tail -n +17 spam.tlds-aggressive.txt | sed 's/||//g; s/\^//g' > spam-tlds-aggressive.txt
+          tail -n +18 spam.tlds-aggressive.txt | sed 's/||//g; s/\^//g' > spam-tlds-aggressive.txt
 
       - name: Commit and push changes
         run: |
           git config --local user.name "github-actions[bot]"
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git add .
+          git add pro.mini-onlydomains.txt tif.mini-onlydomains.txt spam-tlds-aggressive.txt
           git commit -m "Update processed blocklists"
           git push
 
