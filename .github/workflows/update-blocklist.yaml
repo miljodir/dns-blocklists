@@ -64,24 +64,24 @@ jobs:
           git commit -m "Update processed blocklists"
           git push
 
-  dispatch-auto:
-    needs: [update-blocklist]
-    runs-on: ubuntu-latest
-    steps:
-    - uses: actions/create-github-app-token@v2
-      id: app-token
-      with:
-        # required
-        app-id: ${{ vars.TERRAFORM_APP_ID }}
-        private-key: ${{ secrets.PRIVATE_KEY }}
-        permission-contents: write
-        owner: ${{ github.repository_owner }}
-        repositories: |
-          ${{ vars.TERRAFORM_REPO_NAME }}
-    - name: Repository Dispatch
-      uses: peter-evans/repository-dispatch@v3
-      with:
-        event-type: blocklist-updated
-        token: ${{ steps.app-token.outputs.token }}
-        repository: miljodir/${{ vars.TERRAFORM_REPO_NAME }}
-        client-payload: '{"ref": "${{ github.ref }}", "sha": "${{ github.sha }}"}'
+  # dispatch-auto:
+  #   needs: [update-blocklist]
+  #   runs-on: ubuntu-latest
+  #   steps:
+  #   - uses: actions/create-github-app-token@v2
+  #     id: app-token
+  #     with:
+  #       # required
+  #       app-id: ${{ vars.TERRAFORM_APP_ID }}
+  #       private-key: ${{ secrets.PRIVATE_KEY }}
+  #       permission-contents: write
+  #       owner: ${{ github.repository_owner }}
+  #       repositories: |
+  #         ${{ vars.TERRAFORM_REPO_NAME }}
+  #   - name: Repository Dispatch
+  #     uses: peter-evans/repository-dispatch@v3
+  #     with:
+  #       event-type: blocklist-updated
+  #       token: ${{ steps.app-token.outputs.token }}
+  #       repository: miljodir/${{ vars.TERRAFORM_REPO_NAME }}
+  #       client-payload: '{"ref": "${{ github.ref }}", "sha": "${{ github.sha }}"}'
