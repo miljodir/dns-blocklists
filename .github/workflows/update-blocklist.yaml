@@ -15,10 +15,14 @@ jobs:
       - name: Download blocklist
         run: |
           curl -sSL https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/pro.mini-onlydomains.txt -o blocklist.txt
+          curl -sSL https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/tif.mini-onlydomains.txt -o tif.mini-onlydomains.txt
+          curl -ssL https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/spam-tlds-adblock-aggressive.txt -o spam-tlds-aggressive.txt
 
-      - name: Remove first 11 lines
+      - name: Remove first x lines and clean spam-tlds-aggressive.txt
         run: |
           tail -n +12 blocklist.txt > pro.mini-onlydomains.txt
+          tail -n +11 tif.mini-onlydomains.txt >> pro.mini-onlydomains.txt
+          tail -n +17 spam-tlds-aggressive.txt | sed 's/||//g; s/\^//g' > spam-tlds-aggressive.txt
 
       - name: Commit and push changes
         run: |
