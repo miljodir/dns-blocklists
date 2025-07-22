@@ -23,7 +23,7 @@ jobs:
 
       - name: Remove first x lines and clean spam-tlds-aggressive.txt
         run: |
-          tail -n +12 pro-mini-onlydomains.txxt > pro.mini-onlydomains.txt
+          tail -n +12 pro-mini-onlydomains.txt > pro.mini-onlydomains.txt
           tail -n +11 tif.mini-onlydomains.txt > tif.mini-onlydomains.txt
           tail -n +17 spam-tlds-aggressive.txt | sed 's/||//g; s/\^//g' > spam-tlds-aggressive.txt
 
