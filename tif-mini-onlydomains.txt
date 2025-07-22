@@ -1,3 +1,13 @@
+# Title: HaGeZi's Threat Intelligence Feeds DNS Blocklist - mini version
+# Description: Increases security! Blocks Malware, Spam, Scam and Phishing.
+# Homepage: https://github.com/hagezi/dns-blocklists
+# License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
+# Issues: https://github.com/hagezi/dns-blocklists/issues
+# Expires: 1 day
+# Last modified: 22 Jul 2025 03:04 UTC
+# Version: 2025.0722.0304.26
+# Syntax: Domains (without subdomains)
+# Number of entries: 121483
 #
 0-7l45.cfd
 0-8a.com
