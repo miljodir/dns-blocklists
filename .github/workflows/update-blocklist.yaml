@@ -4,6 +4,9 @@ on:
   workflow_dispatch:
   schedule:
     - cron: '0 2 * * *' # Runs daily at 2:00 UTC
+  push:
+    paths:
+      - .yaml'
 
 jobs:
   update-blocklist:
@@ -28,8 +31,8 @@ jobs:
         run: |
           git config --local user.name "github-actions[bot]"
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git add pro.mini-onlydomains.txt
-          git commit -m "Update processed blocklist"
+          git add .
+          git commit -m "Update processed blocklists"
           git push
 
   dispatch-auto:
