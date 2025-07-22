@@ -21,14 +21,14 @@ jobs:
         run: |
           curl -sSL https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/pro.mini-onlydomains.txt -o pro-mini-onlydomains.txt
           curl -sSL https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/tif.mini-onlydomains.txt -o tif-mini-onlydomains.txt
-          curl -sSL https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/tif-onlydomains.txt -o tif-onlydomains.txt
+          curl -sSL https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/tif.medium-onlydomains.txt -o tif.medium-onlydomains.txt
           curl -ssL https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/spam-tlds-adblock-aggressive.txt -o spam.tlds-aggressive.txt
 
       - name: Remove first x lines and clean spam-tlds-aggressive.txt
         run: |
           tail -n +12 pro-mini-onlydomains.txt > pro.mini-onlydomains.txt
           tail -n +11 tif-mini-onlydomains.txt > tif.mini-onlydomains.txt
-          tail -n +11 tif-onlydomains.txt > tif.onlydomains.txt
+          tail -n +11 tif.medium-onlydomains.txt > tif.onlydomains.txt
           tail -n +18 spam.tlds-aggressive.txt | sed 's/||//g; s/\^//g' > spam-tlds-aggressive.txt
 
       - name: Filter tif.mini-onlydomains.txt based on spam-tlds-aggressive.txt
