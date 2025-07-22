@@ -8,7 +8,7 @@ on:
     branches:
       - main
     paths:
-      - "*.yaml"
+      - "github/workflows/*.yaml"
 
 jobs:
   update-blocklist:
@@ -19,7 +19,7 @@ jobs:
 
       - name: Download blocklist
         run: |
-          curl -sSL https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/pro.mini-onlydomains.txt -o pro-mini-onlydomains.txxt
+          curl -sSL https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/pro.mini-onlydomains.txt -o pro-mini-onlydomains.txt
           curl -sSL https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/tif.mini-onlydomains.txt -o tif-mini-onlydomains.txt
           curl -ssL https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/spam-tlds-adblock-aggressive.txt -o spam.tlds-aggressive.txt
 
