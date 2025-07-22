@@ -6,7 +6,7 @@ on:
     - cron: '0 2 * * *' # Runs daily at 2:00 UTC
   push:
     paths:
-      - .yaml'
+      - .yaml
 
 jobs:
   update-blocklist:
