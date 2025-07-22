@@ -29,13 +29,19 @@ jobs:
           tail -n +11 tif-mini-onlydomains.txt > tif.mini-onlydomains.txt
           tail -n +18 spam.tlds-aggressive.txt | sed 's/||//g; s/\^//g' > spam-tlds-aggressive.txt
 
-      - name: Remove redundant TLDs from tif.mini-onlydomains.txt
+      - name: Filter tif.mini-onlydomains.txt based on spam-tlds-aggressive.txt
         run: |
-          # Extract TLDs from spam-tlds-aggressive.txt into a pattern file
-          awk '{print $1}' spam-tlds-aggressive.txt > tlds.txt
-          # Remove lines from tif.mini-onlydomains.txt whose TLD is in tlds.txt
-          awk -F'.' 'NR==FNR{t[$1]; next} { if (!($1 in t)) print $0 }' tlds.txt tif.mini-onlydomains.txt > tif.mini-onlydomains.filtered.txt
-          mv tif.mini-onlydomains.filtered.txt tif.mini-onlydomains.txt
+          # Extract TLDs from spam-tlds-aggressive.txt
+          awk -F'.' '{print $NF}' spam-tlds-aggressive.txt | sort -u > spam_tlds.txt
+
+          # Prepare a grep pattern to match lines ending with those TLDs
+          pattern=$(awk '{print "\\." $1 "$"}' spam_tlds.txt | paste -sd'|' -)
+
+          # Filter tif.mini-onlydomains.txt to remove lines matching the TLDs
+          if [ -n "$pattern" ]; then
+            grep -Ev "$pattern" tif.mini-onlydomains.txt > tif.filtered.txt
+            mv tif.filtered.txt tif.mini-onlydomains.txt
+          fi
 
       - name: Commit and push changes
         run: |
