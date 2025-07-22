@@ -1,3 +1,14 @@
+# Title: HaGeZi's Pro mini DNS/Browser Blocklist
+# Description: Size-optimised version for DNS/Browser adblockers, e.g. for devices with less RAM. This list only contains domains from the Pro full that have been found on Top 1/10M lists (Umbrella, Cloudflare, Tranco, Chrome, BuiltWith, Majestic, DomCop).
+# Homepage: https://github.com/hagezi/dns-blocklists
+# License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
+# Issues: https://github.com/hagezi/dns-blocklists/issues
+# Expires: 1 day
+# Last modified: 22 Jul 2025 03:28 UTC
+# Version: 2025.0722.0328.53
+# Syntax: Domains (without subdomains)
+# Number of entries: 92425
+#
 0-size.com
 00000qpqp00000.com
 000free.us
