@@ -3,7 +3,7 @@ name: Update Blocklist
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 */3 * * *" # Every 3 hours
+    - cron: "15 */4 * * *" # Every 4 hours
   push:
     branches:
       - main
