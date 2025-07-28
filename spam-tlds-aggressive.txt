@@ -119,6 +119,7 @@ health
 healthcare
 help
 homes
+how
 icu
 ink
 international
@@ -156,6 +157,7 @@ money
 monster
 motorcycles
 mov
+my
 name
 navy
 new
@@ -227,6 +229,7 @@ style
 su
 support
 surf
+sx
 sydney
 tattoo
 tax
