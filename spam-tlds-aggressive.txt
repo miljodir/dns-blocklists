@@ -188,6 +188,7 @@ post
 prof
 promo
 pub
+pw
 qpon
 quest
 realtor
