@@ -70,6 +70,7 @@ discount
 diy
 dog
 download
+dpdns.org
 eco
 edu.eu
 engineer
@@ -190,6 +191,7 @@ pub
 pw
 qpon
 quest
+qzz.io
 realtor
 realty
 recipes
@@ -247,6 +249,7 @@ trade
 trading
 tube
 uno
+us.kg
 vacations
 vegas
 ventures
@@ -267,6 +270,7 @@ work
 world
 wtf
 xin
+xx.kg
 yachts
 yoga
 you
