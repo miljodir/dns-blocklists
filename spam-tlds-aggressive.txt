@@ -90,6 +90,7 @@ financial
 fishing
 fit
 fitness
+florist
 foo
 forex
 forsale
@@ -119,6 +120,7 @@ health
 healthcare
 help
 homes
+hot
 how
 icu
 ink
