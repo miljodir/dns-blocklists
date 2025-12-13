@@ -1100,7 +1100,6 @@ eu.2bagsvalley.cn
 3-m.me
 30-dnej-nochi-lordfilms.ru
 30-dney-nochi-lordfilm.ru
-static.3001.net
 30201.art
 v2.3020100.xyz
 302ccd4537db6962dfc7f531c3ec0ae7f4b012c3258951165313044ba50d3bb.link
@@ -5674,6 +5673,7 @@ allegro-discord.xyz
 allegro-youtube.xyz
 allegrolokalnie.app
 allegrolokalnie.live
+sandbox.allegromicro.cloud
 allencomputers.ca
 allerasbrayingcaldron.live
 allesbois.de
@@ -7731,6 +7731,7 @@ asfaltn.ru
 asfaltpremium.ru
 asfasfasfasfas.ru
 asfastbslarchduchery.live
+asfdasas.xyz
 asfdghjkmjhytrwe.net
 asfeniks.ru
 asfinag.live
@@ -8075,7 +8076,6 @@ atualizacaoseguranca.digital
 atualizaroperacao.pro
 atuiomane.de
 atulebehaverbeigel.cloud
-users.atw.hu
 atwater.forum
 atweddingppat.net
 atwi.pl
@@ -12165,6 +12165,7 @@ c1earwind.ru
 c1othwou1d.ru
 c1oudcat.ru
 c1oudmap.ru
+c1rclefang.ru
 c1ubmel0dic.ru
 c21a12c81a8ba6d66c142fc55a4277c19556d0d96380e268b0c4fef54894ae6.link
 c2943a63643c.info
@@ -14515,6 +14516,7 @@ cnt1t2.us
 cntrl.fr
 vpass-login.cnvnhh.cn
 cnvqgn.cn
+cnvsweb.stream
 metamask.cnwallet.im
 cnx-binance.net
 cnxhv.cn
@@ -15969,7 +15971,6 @@ vandewaffle.co.za
 vanss.co.at
 vapekorea.co.kr
 vathooshai.co.za
-ftp.vector.co.jp
 vehicledeliveryservice.co.uk
 vesui.co.uk
 vhudi.co.za
@@ -18348,7 +18349,6 @@ booking.com-reactivate.de
 com-redirect.link
 com-review-account.info
 sellercentral.amazon.com-rs0.nl
-login-live.com-s02.net
 sellercentral.amazon.com-s11.net
 sellercentral.amazon.com-s9.net
 com-secure.info
@@ -18563,7 +18563,6 @@ confirm542351.info
 confirmacion322.info
 confirmardeaviso.info
 confirmation512371.live
-confirmationrdv-leboncoin.fr
 confitcramblecreusot.blog
 conflcompu.digital
 confluence-on-tiktok.xyz
@@ -19178,7 +19177,6 @@ creavo.live
 creazionifuture.it
 credadaylessdeputes.blog
 apps.credence.in
-credi-agricole.fr
 credit-suisse.live
 creditcards-adj-br-24102605.zone
 creditcards-adj-br-24102606.zone
@@ -23306,6 +23304,7 @@ eastpakwien.at
 eastshoreforum.forum
 eastsideconcepts.link
 eastwindforum.forum
+simlpeswap.easy-exchange.pro
 easy-fin.ru
 easy-learn-tech.info
 easy-ledger.app
@@ -26180,6 +26179,7 @@ ff-exchange.digital
 ff-exchange.forum
 ff-exchange.info
 ff-exchange.me
+ff-io.at
 ff-io.to
 ff550dsa.live
 ff5cf2279638eebc96ed115d71b254cf.xyz
@@ -32115,16 +32115,12 @@ holiganbet10185.lease
 holismshuckshussar.blog
 hollihumblyimbarks.art
 hollodnoe-serdce-lordfilm.ru
-twine.hollow-zip.ru
-vault.hollow-zip.ru
+hollow-zip.ru
 hollowbrooknetwork.link
 hollowgear.digital
 hollowgear.pro
 hollowtone.pro
-bind.hollowzip.ru
-crypt.hollowzip.ru
-pouch.hollowzip.ru
-wrap.hollowzip.ru
+hollowzip.ru
 hollywoodcash.ru
 hollywoodnation.net
 matomo.holmbank.ee
@@ -32481,7 +32477,6 @@ hsk-bessel.de
 hsn-handel.de
 hsn24.de
 hsnqy.cn
-hst.sh
 hst-deposit.ca
 srv1050744.hstgr.cloud
 srv1067286.hstgr.cloud
@@ -32799,6 +32794,7 @@ hyperonhoondeehoveled.blog
 hyperpridge.xyz
 hyperrunit.xyz
 hypersage.info
+hypersliquid.xyz
 hyperterm.ai
 hyperuit.xyz
 hyperumit.xyz
@@ -33013,6 +33009,7 @@ icyuzuzosoft.rw
 icz66.xyz
 beesoft.id.vn
 fvia.id.vn
+hqweb.id.vn
 faceit.id-24915.pro
 id-3562136.pro
 id-362632833.pro
@@ -42053,7 +42050,19 @@ monduna.de
 monero.im
 monero-chan.info
 monerominers.net
-moneroocean.stream
+api.moneroocean.stream
+api2.moneroocean.stream
+de.moneroocean.stream
+email.moneroocean.stream
+fi.moneroocean.stream
+fr.moneroocean.stream
+jp.moneroocean.stream
+status.moneroocean.stream
+test.moneroocean.stream
+uptime.moneroocean.stream
+us.moneroocean.stream
+webminer.moneroocean.stream
+xmrig.moneroocean.stream
 monespace-cesi.fr
 monespaceadehrent.fr
 monespacesante-renouvellement.info
@@ -43723,6 +43732,7 @@ net-netflix.info
 mail-live.net-s03.net
 net-sensors.net
 net-service.pro
+exodus.net-sys.at
 netbooster.info
 netcinez.ch
 app.netclienteempresa.live
@@ -45609,7 +45619,6 @@ one-coding.ru
 one-health.mg
 one-heart-yoga.net
 one-plus.me
-one-provide.ch
 one-vanilla.info
 one2many.net
 one88.me
@@ -45751,6 +45760,7 @@ onschuheoutletstore.at
 onschuhewien.at
 onsh-adguard.pro
 onsiteweb.digital
+solana.onspace.app
 api.onstudyithack2025.ru
 onsurvey.xyz
 onteams.us
@@ -46691,7 +46701,6 @@ pacificarch.ca
 packc.xyz
 packerspahlevipenury.cloud
 packetfrauzen.info
-dl.packetstormsecurity.net
 packlytics.app
 pact-zollverein.de
 pactionparuriapassade.art
@@ -46935,6 +46944,7 @@ park-inkasso.de
 park-yurskogo-period-lordfilm.ru
 park-yurskogo-periodda-lordfilm.ru
 parkcow.ru
+redwp.parkett-oberhausen.info
 parkey-app.fr
 parki-i-zona-lordfilm.ru
 parking-voronezh-yuzhniy.ru
@@ -48017,12 +48027,9 @@ plskxi.net
 pltudev.xyz
 pluepf.xyz
 plumbby4fruit.info
+plume-anchor.ru
 plume-hub.xyz
-chain.plumeanchor.ru
-keel.plumeanchor.ru
-moor.plumeanchor.ru
-port.plumeanchor.ru
-reef.plumeanchor.ru
+plumeanchor.ru
 plummmy4pie.info
 plumpulse.xyz
 plungeplutopontian.blog
@@ -48494,7 +48501,6 @@ postfixpro.ru
 postgresqllunax.ru
 postioutcr.digital
 postlnord.xyz
-tracking.postlogistics.ch
 postnord-dk.info
 postoffice-za-co.xyz
 postolwepok.tech
@@ -49992,9 +49998,7 @@ r-dex-v1.app
 r-finance-v3.app
 r-hl.net
 r-live.app
-axle.r0bintorque.ru
-shear.r0bintorque.ru
-thrust.r0bintorque.ru
+r0bintorque.ru
 r0cketf2rm.ru
 r102.ru
 r1verbend.ru
@@ -51374,6 +51378,7 @@ rituall-vechnost.ru
 ritualnmsk.ru
 ritualnye-uslugi-cherven.by
 ritualroast.coffee
+rituals-pakket.nl
 riuz.cloud
 riv-ox.ru
 rivages.art
@@ -53956,6 +53961,7 @@ simple-live.xyz
 simple-rewards.live
 simple-secure-mail.cloud
 simple-swap.app
+simple-swap.dev
 simple-swap.to
 simple-swap.us
 simple-swap.xyz
@@ -55549,7 +55555,6 @@ spinnner77wheel.info
 spinsbara.fr
 spinsetr.xyz
 spinsgaming.xyz
-spinsy.fr
 spinsy-casino-online.fr
 spintocasino-live.info
 spinxton.xyz
@@ -55747,6 +55752,7 @@ srs-samp.ru
 srtech.tech
 srtrak.xyz
 srtuiyhuali.at
+srturl.link
 os-shownews.db.srv.br
 vidadepet.db.srv.br
 dbzap.srv.br
@@ -56503,6 +56509,7 @@ substacity.me
 substit78iiutability.info
 subtitles-nl.xyz
 subwarswithlytaxers.cloud
+succes-dofus.fr
 successstrategy.ru
 succicnt.xyz
 succictn.xyz
@@ -56657,13 +56664,11 @@ sunshi.me
 sunshift.ru
 sunshinewindowcleaners.ca
 sunspireinitiatives.link
-sunswap.nexus
 suntona.net
 sunvalleyantipolo.net
 sunvn.net
 sunwave.xyz
 web.sunwin.pro
-sup0rt.ie
 fnvimoyvwkbxbmczlqus.supabase.co
 frygzjyhtiunvhvnacif.supabase.co
 ihmmkvkaiwnilneauhfn.supabase.co
@@ -56682,6 +56687,7 @@ super-phone-mcn.xyz
 super-press.ru
 super-store.pl
 superacionpobreza.cl
+superai.app
 superappsite.xyz
 superb-broadcasttointerprettoday.info
 superb2boffice.info
@@ -58759,6 +58765,7 @@ tokeny.pl
 toki.academy
 toki.forum
 toki-de.digital
+toki-dig.digital
 tokibasvur.dev
 tokibasvuralarii.xyz
 tokibasvurulariburda.digital
@@ -61550,7 +61557,6 @@ verification-leboncoin.fr
 verification-qonto.fr
 verificationcoupons.fr
 verificationpage.live
-verificationrdv-leboncoin.fr
 verifiedshop.ru
 verifier-iphone.net
 verify-asterdex.network
@@ -61708,7 +61714,6 @@ vibefusionx.uk
 vibeloom.dev
 vibesurfing.ru
 vibethink.net
-vibetronic.id
 vibezenithx.uk
 viborax.ru
 vibortherm.hu
@@ -61926,7 +61931,6 @@ virtuxalhaven.ru
 virus.zone
 viruscheckunited.live
 visage-paris.fr
-visam.info
 visequro.xyz
 vishalji.info
 www.ns1.outlook.visiblemarketing.de
@@ -62559,6 +62563,7 @@ w1ldshore.ru
 w1ndcrest.ru
 w1ndmark.ru
 w1zard-yt.me
+w2socks.xyz
 w37n.xyz
 w37v.xyz
 w38j.xyz
