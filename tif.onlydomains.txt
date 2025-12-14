@@ -4831,6 +4831,7 @@ ag-beta-secure-wallet-connects.pro
 ag-checker.xyz
 ag-claims.app
 ag-diehandwerker.de
+ag-portal-edge-auth-api-gateway.pro
 ag-prod-online-edge-api-gateway.pro
 ag-reparaturservice.at
 ag-secure-alpha-edge-auth.pro
@@ -4945,6 +4946,7 @@ agroforsa.ru
 agromega.ru
 old.agroonline.uz
 agropal.net
+agropole.tg
 agrorante.es
 agrotecr.watch
 agrovoshod.ru
@@ -9080,6 +9082,7 @@ baseinett1.xyz
 baseisnotforeveryone.xyz
 basekb.xyz
 baselabs.app
+baselabs.global
 baselercyanolfusulae.codes
 baselladaydawndehorns.live
 basemoonbirds.xyz
@@ -10048,6 +10051,7 @@ biffy.ai
 biformcisticgander.live
 bifrizou.ru
 bifrontentreptleproma.info
+bifrost.pe
 bifrost.pl
 bifrostdesktopwallet.app
 big-authority-zoom.xyz
@@ -11761,6 +11765,7 @@ bsvuruukonutlaritoki.pro
 bt1.us
 bt365.blog
 btb3d.art
+btc-860velaryon.fr
 btc-drevola.net
 btc-mena.live
 btc-qr.to
@@ -11778,6 +11783,7 @@ pay.pay.pay.kwid9.btcnexus.xyz
 btcr.cr
 btcrevolution.cloud
 btctrump.us
+btcvelaryon.fr
 btdek.xyz
 vpass-login.bteuhe.cn
 btgo.digital
@@ -13253,23 +13259,32 @@ chaingw.xyz
 chaingylipuriapalpus.digital
 chainhn.xyz
 chainht.xyz
+chainhx.xyz
 chainhy.xyz
 chainintegrator.xyz
 chainiy.xyz
 chainjz.xyz
 chainkw.xyz
 chainky.xyz
+chainlh.xyz
 chainln.xyz
 chainmm.xyz
 chainnc.xyz
+chainng.xyz
 chainofficer.xyz
 chainoffices.xyz
+chainqh.xyz
 chainreserve.xyz
 chainrh.xyz
 chainsol.live
+chainsw.xyz
 chainsync.app
 chainva.xyz
+chainwf.xyz
+chainws.xyz
+chainwt.xyz
 chainwz.xyz
+chainxe.xyz
 chainyf.xyz
 chainyo.xyz
 chainzv.xyz
@@ -14682,6 +14697,7 @@ bellillo.co.uk
 bellwebsite.co.uk
 bencapuran.co.in
 benlandscaping.co.uk
+www.benshamcentre.co.uk
 berca-mp.co.id
 bergi.co.uk
 berkahinternasional.co.id
@@ -16167,6 +16183,7 @@ coinagekdcdasaxgdcx.pro
 coinam.net
 coinatlas.ru
 coinbase.free
+coinbase.hu
 coinbase.security
 coinbase.spot
 accounts.coinbase.earth
@@ -18234,6 +18251,7 @@ com-api-core-dev-api-gateway.pro
 com-api-gateway-app-edge-portal.pro
 com-api-gateway-broker-edge.pro
 com-api-gateway-edge-prod-portal.pro
+com-api-gateway-external-management-auth.pro
 com-api-gateway-frontend-client-dev.pro
 com-api-gateway-management-portal-ci.pro
 com-api-gateway-platform-internal-prod.pro
@@ -18257,6 +18275,9 @@ com-auth-cdn-beta-portal.pro
 com-auth-cdn-edge-v5.pro
 com-auth-cluster-alpha-beta.pro
 com-auth-portal-partner-cdn.pro
+com-auth-service-dex-secure.pro
+com-auth-swap-dex-apps.pro
+com-authconnectin.ru
 com-authrequestid883.pro
 com-backend-api-corp-ci.pro
 com-backend-cd-cluster-ci.pro
@@ -18284,15 +18305,18 @@ com-connects-secure-api-gateway.pro
 com-connects-v1-dex-api.pro
 com-connects-wallets-gateway-api-gateway.pro
 com-core-ai-portal-platform.pro
+com-core-alpha-dev-gateway.pro
 com-core-secure-external-edge.pro
 com-corp-cd-auth-stage.pro
 com-device.info
 com-dex-beta-portal-connects.pro
+com-dex-edge-beta-alpha.pro
 com-dex-prod-apps-api.pro
 com-dex-prod-wallets-alpha.pro
 com-dex-secure-portal-api-gateway.pro
 com-edge-api-gateway-service-gateway.pro
 com-edge-api-secure-portal.pro
+com-edge-auth-beta-trading.pro
 com-edge-portal-online-brokers.pro
 com-edge-wallet-api-secure.cloud
 com-edge-wallets-secure-portal.pro
@@ -18304,6 +18328,7 @@ com-gateway-alpha-auth-api.pro
 com-gateway-alpha-swap-connect.pro
 com-gateway-api-gateway-apps-portal.pro
 com-gateway-auth-secure-api-gateway.pro
+com-gateway-beta-dex-auth.pro
 com-gateway-cdn-secure-api.pro
 com-gateway-portal-app-platform.pro
 com-i.us
@@ -18319,7 +18344,9 @@ com-localizar.es
 com-log.info
 com-maps.info
 booking.com-monthly-report.info
+com-online-api-connect-auth.pro
 com-online-portal-api-gateway-trading.pro
+com-online-prod-trading-cdn.pro
 com-online-secure-gateway-management.cloud
 com-online-trading-auth-gateway.pro
 com-partner-backend-api-gateway-cdn.pro
@@ -18327,6 +18354,8 @@ com-payment.link
 com-photo.info
 com-platform-api-gateway-secure-gateway.pro
 com-platform-api-gateway-v3-cdn.pro
+com-platform-online-gateway-external.pro
+com-platform-server-core-online.pro
 sellercentral.amazon.com-plr.net
 com-portal-api-connects-cdn.pro
 com-portal-api-gateway-v4-wallet.pro
@@ -18361,6 +18390,7 @@ com-secure-beta-gateway-services.pro
 com-secure-prod-trading-beta.cloud
 com-secure-trading-brokers-cdn.pro
 com-secure-v5-swap-dex.pro
+com-server-alpha-v3-partner.pro
 com-server-management-main-alpha.pro
 com-server-partner-cdn-cluster.pro
 com-service-cdn-gateway-portal.pro
@@ -18397,11 +18427,13 @@ sellercentral.amazon.com-us4.nl
 com-v2.to
 com-v2-client-beta-ci.pro
 com-v3-claim.live
+com-v4-swap-cdn-api.pro
 com-v5-trading-api-prod.pro
 com-vacationrentalreview-g186450-d10878540.host
 m.paypall.com-verification.net
 com-wallets-dex-gateway-alpha.pro
 auth.com-web.net
+com-x4.net
 com-zikz.art
 combitelamechsodiums.info
 comdaliy.de
@@ -26248,6 +26280,7 @@ fi-auth-secure-wallets-staking.pro
 fi-auth-staking-apps-connects.pro
 fi-beta-dex-wallet-service.pro
 fi-beta-v3-apps-api.pro
+fi-ca.digital
 fi-cdn-staking-secure-api-gateway.pro
 fi-cdn-v1-beta-edge.pro
 fi-connect-wallet-gateway-auth.pro
@@ -26258,6 +26291,7 @@ fi-gateway-wallets-v2-apps.pro
 fi-online-api-gateway-portal-secure.pro
 fi-online-cdn-api-v2.pro
 fi-online-dex-swap-connect.pro
+fi-online-gateway-beta-alpha.pro
 fi-online-wallets-dex-gateway.pro
 fi-pool.net
 fi-portal-swap-service-dex.pro
@@ -26267,6 +26301,7 @@ fi-secure-prod-dex-portal.pro
 fi-staking-auth-gateway-dex.pro
 fi-staking-connect-api-dex.pro
 fi-swap-auth-staking-connects.pro
+fi-swap-portal-app-api.pro
 fi-treasury.net
 fi-treasurypool.net
 fi-v2.to
@@ -26433,10 +26468,12 @@ finance-online-api-gateway-auth-wallets.pro
 finance-online-connects-services-wallets.pro
 finance-online-secure-services-swap.pro
 finance-opportunities-turkey.info
+finance-portal-beta-auth-cdn.pro
 finance-portal-connect-service-api.pro
 finance-portal-online-gateway-cdn.pro
 finance-portfolio-turkey.info
 finance-prod-api-alpha-v1.pro
+finance-prod-app-portal-api-gateway.pro
 finance-prod-edge-app-connect.pro
 finance-prod-online-portal-edge.pro
 finance-secure-alpha-portal-edge.pro
@@ -27407,6 +27444,7 @@ fr-drbright.net
 fr-localiser.app
 fr-relais.info
 fr0gtime.ru
+fr0stgate.ru
 fr0stpetai.ru
 fr1zzlepit.ru
 fracfriends.art
@@ -28522,6 +28560,7 @@ gcltech.net
 gcollections.art
 gcounter.cn
 gcpbucp.live
+gdanskkwiatyru.pro
 gdblaze88.live
 gdbydsm.cn
 gdcrcgw.cn
@@ -34123,14 +34162,17 @@ testdisc.io.vn
 trezor.io.in
 io-app.run
 io-app-2i.info
+io-backend-services-portal-cluster.pro
 io-dashboards.net
 io-phase2.app
 support.io-rb.fr
 io-ru.me
+io-season-2.app
 io-season2.info
 io-secure-stage-cluster-node.pro
 io-start.app
 io-start.live
+io-start-app.live
 io-swap.net
 io-unlink.app
 ioasis.net
@@ -36821,6 +36863,7 @@ kra47cc-------------------a.ru
 kra47cc------------------a.ru
 kra47cc-----------------a.ru
 kra47cc---------------a.ru
+kra47cc-------------a.ru
 kra47cc-----------c.ru
 kra47cc----------d.ru
 kra47cc---------c.ru
@@ -39501,6 +39544,7 @@ m1stlake.ru
 m1stleaf.ru
 m1stwave.ru
 m1stybird.ru
+m1stycl0ud.ru
 m1styline.ru
 m1styrock.ru
 m1stysun.ru
@@ -41978,6 +42022,7 @@ monad-claim.xyz
 monad-enlist.app
 monad-hub.xyz
 monad-pool.xyz
+monad-v2.xyz
 monadapp.live
 monadbets.live
 monadbridge.fi
@@ -41987,6 +42032,7 @@ monaddashboard.xyz
 monaddrops.xyz
 monadfastbridge.net
 monadiosocial.xyz
+monadlands.xyz
 monadnetwork.app
 monadonna.de
 monadoons.xyz
@@ -43161,6 +43207,7 @@ n1111.cn
 n1ghtbloom.ru
 n1ghtowl.ru
 n1ghtstone.ru
+n1ghtwave.ru
 aonbs.n2bs.ao
 n2zemt0ler.ru
 n3.wf
@@ -45425,7 +45472,6 @@ okna-systems.pro
 okna-uh.cz
 oknasds.ru
 okno-v-messendgere.ru
-oknoplastik.sk
 okodegamiw.digital
 okon-remont-borisov-pr.ru
 okosaya.info
@@ -46204,6 +46250,8 @@ org-auth-connect-beta-app.pro
 org-auth-online-alpha-swap.pro
 teiegram.org-cc.cn
 org-cdn-apps-api-gateway-wallet.cloud
+org-connect-swap-v1-cdn.pro
+org-dex-api-gateway-v4-apps.pro
 org-dex-app-v2-swap.pro
 org-dex-connect-edge-beta.pro
 org-dex-connects-app-auth.pro
@@ -47475,6 +47523,7 @@ phantam.net
 phantext.info
 phantm.at
 phantom.cards
+phantom.express
 phantom.ltda
 phantom.lu
 phantom.me
@@ -50645,6 +50694,7 @@ regine-schimpf.de
 regioanwalt.de
 regionales-heizoel.de
 regiony24pl.info
+register-allora.network
 register-cysicfoundation.xyz
 register-harmonix.fi
 register-irys.xyz
@@ -51625,6 +51675,7 @@ rocketsrollerroselet.blog
 rocketsubs.ru
 rocketx.tech
 rocketx-exchange.net
+rockfieid.ru
 rockk3slide.info
 rockm1nt.ru
 rockmayak.ru
@@ -52299,6 +52350,7 @@ safedefender.info
 safedocu.one
 safedrivinxm.xyz
 safefor.xyz
+safeguild.app
 safeharborguidancegroup.xyz
 safeheader.de
 safehorizon.xyz
@@ -54536,6 +54588,7 @@ slushat-muzyku-telegram.ru
 slushat-muzyku-v-telegram.ru
 slushie.email
 slushupdate.info
+slushwallet.info
 slweb.xyz
 slywebhosting.net
 sma2rtsky.info
@@ -55713,6 +55766,7 @@ squalorstancesstocker.blog
 squaredengi.ru
 squarepurpose.xyz
 squartefano.ch
+squeeky3mouse.info
 squeezetoys.de
 squeezy7lemon.info
 squesoaneur.ru
@@ -56561,6 +56615,7 @@ suilens.tech
 suinetworkdev.app
 suiofficer.xyz
 suioffices.xyz
+suiplay0x1.blog
 suisiswarp.fi
 suite-irtrezor.live
 suite-letrezor.live
@@ -57351,6 +57406,7 @@ tandyrjan.ru
 taneceksvetemmarketingu.cloud
 taney.de
 tangent-capital.pro
+tangleflux.ru
 tanglehook.ru
 tangobonn.de
 tangxue.net
@@ -62660,6 +62716,7 @@ walletconnects.xyz
 walletfooddelivery.xyz
 walletfriends.xyz
 walletgiveaway.xyz
+walletguard.live
 walletlist.pro
 walletmanagedering.info
 walletofficer.xyz
