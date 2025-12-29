@@ -1676,6 +1676,7 @@ allegrolokalnie.789324.pro
 82310.xyz
 82317.xyz
 82323.xyz
+82324.xyz
 82326.xyz
 82328.xyz
 82343.xyz
@@ -3503,6 +3504,7 @@ allocation-neotokyocodes.app
 allocation-peipei.xyz
 allocation-uniswap.co
 allocations.network
+allocations-gensyn.network
 allomivab.live
 allsolar.xyz
 alluto.net
@@ -5279,6 +5281,7 @@ bloommaldi.pro
 bloomsonic.art
 bloomstonefield.garden
 bloomwonders.art
+blooprint-twitchdrops.pro
 blotzm.xyz
 blox-prizes.net
 bloxlink-bot.app
@@ -5297,6 +5300,7 @@ bluecl1ff.ru
 bluecrestconsulting.live
 bluef0rest.ru
 bluef0rm.ru
+bluef0x.ru
 bluef1re.ru
 bluefieldconsulting.live
 bluefieldpartners.live
@@ -5519,6 +5523,7 @@ br-office.net
 br0adtemp1ate.ru
 br1ckw0rd.ru
 br1ght5tar.ru
+br1ghtf0rm.ru
 br1ghtf0x.ru
 br1ghtlake.ru
 br1ghtmint.ru
@@ -10078,6 +10083,7 @@ dansorium.gr
 dantsechs.net
 danziger14.de
 dap-services.cz
+dapp-browser-restore.xyz
 dapp2.xyz
 dappclaiming-sol.xyz
 dappevent.net
@@ -10215,6 +10221,7 @@ debirdge.run
 debugger-claim-github.xyz
 decatrade.network
 decay-youtube.xyz
+decentrallaunchpad.pro
 decerscult.pro
 decidecourse.net
 decidmalin.digital
@@ -10235,6 +10242,7 @@ deep5tone.ru
 deepbreez3.ru
 deepbreeze.ru
 deepc0rest.ru
+deepc0ve.ru
 deepc1iff.ru
 deepcanyonlabs.pro
 deepcl0ud.ru
@@ -11070,6 +11078,7 @@ zlbwuzyy.e-kei.pl
 e-kgmsorgulamaadresi.digital
 e-kora-live.live
 e-learninghub.info
+e-nvii.digital
 sberbank.yandex.sberbank.blablacar.youla.36nl4ood91z4zu6c.dashboard.ns2.e-odin.ru
 yandex.yandex.sbermarket.youla.36nl4ood91z4zu6c.dashboard.ns2.e-odin.ru
 pochtabank.pochtabank.yandex.youla.36nl4ood91z4zu6c.dashboard.ns2.e-odin.ru
@@ -11166,7 +11175,6 @@ eastdiamond.net
 eastshoreforum.forum
 eastsideconcepts.link
 eastwindforum.forum
-simlpeswap.easy-exchange.pro
 easybrand.vn
 easygreenfield.garden
 easygrowspace.garden
@@ -11687,6 +11695,7 @@ essentialsclothingstore.us
 essentialsdeutschland.de
 essereessenza.it
 essorluxent.net
+esspresso.network
 estaimaibumaun.net
 estatepro.info
 estbulk-prime.fr
@@ -11761,6 +11770,7 @@ evenislandpanel.xyz
 event-aioz.xyz
 event-almanak.xyz
 event-chonks.xyz
+event-creditcoin.xyz
 event-gradient.network
 event-link.live
 event-monad.xyz
@@ -11963,6 +11973,7 @@ f214o.xyz
 f214w.xyz
 f215o.xyz
 f215r.xyz
+f215u.xyz
 f26fd1acce3e.info
 f2723dc71af3b9383a82658f0aabb9668ab19fa74d7662e15d48ec69f0cd1f8.link
 f2777f9405c863295e53c657f5ff5d6b.xyz
@@ -13231,6 +13242,7 @@ g32k.xyz
 g32u.xyz
 g32x.xyz
 g32z.xyz
+g33f.xyz
 g40n.xyz
 g41n.xyz
 g4eyhhar1eq.ru
@@ -13903,7 +13915,6 @@ gpandme.it
 gpch-defender.pro
 gpfu-defender.pro
 gpoj-protect.pro
-gps-findmycloud.info
 gpt-live.xyz
 15215036882.gpt138.xyz
 gptdefinity.live
@@ -15595,6 +15606,7 @@ j248p.xyz
 j248x.xyz
 j248y.xyz
 j248z.xyz
+j249f.xyz
 j249g.xyz
 j249l.xyz
 j249m.xyz
@@ -15943,6 +15955,7 @@ jumpermedia.net
 jumpers.digital
 junglegymsneglectfuleeness65.info
 junkun.net
+junoswap.me
 juntoz.xyz
 jup.rocks
 jupagonsol.network
@@ -16408,6 +16421,7 @@ krab1-----cc.ru
 krab1-at-at.ru
 krab1-c-c.ru
 krab1-tor.ru
+krab2.ss
 krab2-att.ru
 krab2-c-c.ru
 krab2-cc.ru
@@ -16886,6 +16900,7 @@ ligue-plus.fr
 ligueplus.fr
 lihcrezevky.live
 liheiat.xyz
+lihgter-dex.xyz
 lihongli5.cn
 lihsrogiw.live
 liilemetropole.fr
@@ -18086,6 +18101,7 @@ midnight-networks.xyz
 midnight-vote.network
 midnightcrestforum.forum
 midnightlakeforum.forum
+midnightportal.net
 midnightshoreforum.forum
 midnightsol.network
 midnigth.network
@@ -18631,6 +18647,7 @@ hebrixlaza.brandc.my.id
 claimfo1n.my.id
 idnsyy.crzyy.my.id
 xdna-indonpayllater.danaidsach.my.id
+aktiffkan-paylater.dwfg.my.id
 claimffvzy.evtnsy.my.id
 ikuti.my.id
 mfa.mifrou.my.id
@@ -19905,6 +19922,7 @@ opencommonsgarden.garden
 opendiscussionlab.forum
 openfieldgarden.garden
 openfieldplace.garden
+openfix.live
 opengrowthfield.garden
 openguildew.xyz
 openharborforum.forum
@@ -20446,7 +20464,6 @@ pcjiami.cn
 pcmanage.cn
 pcmnw.net
 pcmsl.es
-pcperfectsecuritiesfr.live
 pcztw.xyz
 pdddhgcv.info
 pdddxd.info
@@ -20891,7 +20908,6 @@ poly-market.xyz
 polycimbon.digital
 polymarket.ch
 polymarket.contact
-polymarket.digital
 polymarket-airdrop.app
 polyoxchujedony.digital
 polypdispl.pro
@@ -21627,6 +21643,7 @@ r32g.xyz
 r32j.xyz
 r32v.xyz
 r32w.xyz
+r32y.xyz
 r72woxlv.xyz
 r7sedg.us
 ra-casino-fr.fr
@@ -21704,6 +21721,7 @@ randaridolizalranxeloratra.forum
 randomdouble.xyz
 rangepip.ru
 ranl.digital
+ranojpegu.in
 ransokk.de
 ransom.blog
 rap1d5t0ne.ru
@@ -21747,6 +21765,7 @@ rawsignal.live
 ray-sol.net
 raybansales.us
 raydium-io.to
+raydiumlayers.live
 raydiumofficials.live
 raydiumsolution.live
 raydiumstock-conveying.xyz
@@ -22461,6 +22480,7 @@ rust-item.pro
 rust-ki.pro
 rust-kit.pro
 rustbase.pro
+rustblooprint.net
 rustdesk.pl
 rusthorizon.net
 rustlcontr.digital
@@ -23350,6 +23370,7 @@ skybet138.net
 skybl1ss.ru
 skyblend.ru
 skybr1dge.ru
+skyc0rest.ru
 skycl0ud.ru
 skycrestvaltrioapp.net
 skyf0rge.ru
@@ -23552,6 +23573,7 @@ snare-plum.ru
 snareplum.ru
 snazzzy1hat.info
 snazzzy7look.info
+sncf-connect.net
 sneakers-world.fr
 distrochooser.snehit.dev
 snfl.app
@@ -24225,6 +24247,7 @@ stormf0x.ru
 stormfiare.ru
 stormfieldtechnologies.live
 stormglow.ru
+stormh1ll.ru
 stormharboranalytics.live
 storml1ght.ru
 storml1nk.ru
@@ -24867,7 +24890,6 @@ tejeifjlxa.cloud
 tejeivapxr.cloud
 tejeiwdeow.cloud
 tejeixcnla.cloud
-tejeixgzqu.cloud
 tejeizzifa.cloud
 tejejcmtos.social
 teklino.pl
@@ -25260,6 +25282,7 @@ tk-shopmall.net
 tkcy.nl
 tkoh-protect.pro
 sakht.tkryazd.ir
+tkshopgo1.xyz
 tktehno.ru
 tlaa-defender.pro
 tlcbcp.app
@@ -26324,7 +26347,6 @@ v2z.ru
 store.v5-uniswap.info
 vaboler.cloud
 vacationoffice.live
-vacations-prebooking.info
 vadilops.ru
 vagler.ru
 vagrant-discord.xyz
@@ -27423,6 +27445,7 @@ winbay-france.fr
 winbay777.fr
 winbet.pm
 wincleanfile.xyz
+windb1rd.ru
 windbr1dge.ru
 windc0ast.ru
 windc0de.ru
@@ -27501,7 +27524,6 @@ q2.wlh84.ru
 x.wlh84.ru
 wlnd5hore.ru
 wlpq-adguard.pro
-wndrbnlbb.xyz
 wnfrtnr.de
 wngl-defender.pro
 wnhdjr.net
@@ -27519,6 +27541,7 @@ ebay-entruempelung-instagram.wohnungsaufloesung7berlin.de
 entsorgung-privat-instagram.wohnungsaufloesung7berlin.de
 friedrichshain-entruempelung-instagram.wohnungsaufloesung7berlin.de
 waschmaschine-entsorgen-instagram.wohnungsaufloesung7berlin.de
+wojakmeme.app
 wojakmeme.info
 wojakmeme.net
 wojakmemsol.xyz
