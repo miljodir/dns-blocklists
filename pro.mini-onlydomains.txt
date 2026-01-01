@@ -9750,12 +9750,10 @@ bdo2.qpon
 bdo8.cyou
 bdo9.love
 bdob.click
-bdobest.cyou
 bdof.help
 bdog.click
 bdogroup.click
 bdoi.help
-bdoi.love
 bdoj.shop
 bdoo.qpon
 bdoo2o.cyou
@@ -10018,6 +10016,7 @@ bet-at-home.com
 bet-boom.com
 bet365affiliates.com
 banner.bet365partners.com
+betacer.com
 betads.xyz
 analytics.betaflight.com
 betakescodman.cyou
@@ -13605,6 +13604,7 @@ s.cntqk.com
 cntxcdm.com
 cnvlink.com
 cnvtyajtiwiss.space
+cnwucnf.top
 cnzz.cn
 cnzz.net
 c.cnzz.com
@@ -14795,7 +14795,6 @@ analytics.compat.io
 comperialead.pl
 c.compete.com
 ocpsa.competitivecyclist.com
-compgv.top
 compiledonatevanity.com
 compilework.com
 compitte.com
@@ -19942,7 +19941,6 @@ fauracia.biz
 favbet.com
 favbet999.com
 favelsmali.sbs
-favfav.xyz
 favicon.com
 pv-collector.prod.favish.com
 favoritua.com
@@ -21427,6 +21425,7 @@ bugly-ios.cros.garena.com
 log.fcovn.garenanow.com
 garglingably.com
 garlicice.store
+garmentsale.top
 matomo.garmin.com
 garotas.info
 gg.garrnnet.com
@@ -24290,6 +24289,7 @@ i305175.net
 i3j6h7j9cj.com
 ios-pclog.i4.cn
 i45x0w.com
+i8h7uteg7fwz4p1w.cfd
 gdl.i9dhjx.ru
 gtg.i9sports.com
 ia-dmp.com
@@ -25469,6 +25469,7 @@ itcjggcc.com
 itcompany.com
 iteeus.com
 itemdb.com
+itemsdetails.com
 api.iterable.com
 assets.iterable.com
 js.iterable.com
@@ -26353,7 +26354,6 @@ kbfvzoboss.bid
 kbkb.bet
 kbnmnl.com
 matomo.kbs.de
-kcbmcuz.top
 e459.kcci.com
 kccostume.com
 kcfdom.com
@@ -26737,6 +26737,7 @@ kouclo.com
 koun-wa.com
 koussostng.click
 kowalski-butik.com
+kozerex.com
 kpbmqxucd.com
 smetrics.kpmg.com
 kptnascbjdby.com
@@ -29855,6 +29856,7 @@ mjexfqwxjuo.com
 mjfrdqhmc.com
 mjjtobmrqyolqqbqukpl.com
 mjriazemzybdg.online
+mjupoierfw8nnbq.rest
 trace.mjyx.com
 mkjigsaw.com
 mks98.com
@@ -30292,6 +30294,7 @@ ss.moxiplayer.com
 moyu88.xyz
 analytics.moz.com
 mozaka.com
+mozerex.com
 dataops.mozgcp.net
 ads.prod.webservices.mozgcp.net
 ads.mozilla.org
@@ -30821,7 +30824,6 @@ nzmkzl.mytheresa.com
 img.side.mythiell.com
 mythosupflow.com
 mytim.bond
-mytim.fun
 mytop-in.net
 mytopf.com
 mytopfiles.com
@@ -34707,12 +34709,9 @@ otoadom.com
 otoarizasi.com
 otoi3ug83g3h.cfd
 otomachi.jp
-otoragar.top
 otorcgar.top
 otorfgar.top
 otorogar.top
-otorrgar.top
-otorwgar.top
 otoshiana.com
 otoyueuprumok.icu
 sentry.otpless.app
@@ -37062,6 +37061,7 @@ prtc.net
 prtrackings.com
 prudesynax.world
 prudsys-rde.de
+sentry.prusa3d.com
 prwave.info
 przyczepa-dystrybucyjna.com
 przytulny.com
@@ -39925,6 +39925,7 @@ smetrics.saksoff5th.com
 banner.sakuharuno.com
 salanoajalio.xyz
 salbraddrepilly.com
+salebooks.shop
 salecycle.com
 salemove.com
 salemwebnetwork.com
@@ -40068,6 +40069,7 @@ sanynouncem.org
 gtm.saostar.vn
 plausible.saostar.vn
 tracking.saostar.vn
+saovax.com
 smetrics.sap.com
 sape.ru
 sapfir.tv
@@ -40794,7 +40796,6 @@ seu-rod-or.art
 seu-rss.cc
 seu-rsszs.cc
 seuhtkskudvkf.site
-seur.agency
 seures-inde.cfd
 seures-inde.cyou
 seuresceiskdzonline.icu
@@ -40987,6 +40988,7 @@ shelljacket.us
 shellnescarlett.com
 trk.shelly.cloud
 creative.shemale.show
+shemrec.cc
 shenajou.com
 shengfleming.com
 shenshiads.com
@@ -43847,6 +43849,7 @@ teenhost.net
 teenskitten.com
 analytics.teepublic.com
 teethundercoverhowever.com
+tefalkitchendeals.club
 tefs.com
 teggcraws.com
 tegmenttina.cfd
@@ -45441,6 +45444,7 @@ batchlogging4-noneu.truecaller.com
 insights-categorizer-noneu.truecaller.com
 metis.truecaller.com
 pixel.truecaller.com
+pixel-noneu.truecaller.com
 pushid-noneu.truecaller.com
 tagging5-eu.truecaller.com
 fzgsu.trueclassictees.com
@@ -45704,6 +45708,7 @@ twistconcept.com
 twistoo.co
 ads.twitch.tv
 analytics.m7g.twitch.tv
+twitchdrop.sbs
 twitchgift.sbs
 twitcount.com
 twiter.com
@@ -46297,6 +46302,7 @@ web-sdk.urbanairship.com
 analytics.urbanint.net
 urbanlaurel.com
 ssgtm.urbanstems.com
+urbantrendpulse.com
 urchin.com
 wlog.urcmx.com
 urdatingassistant.com
@@ -46573,6 +46579,7 @@ variable-webex.xyz
 analytics.variantnow.com
 varioth.com
 variousformatscontent.com
+varkelmbqlmyj.top
 dmztm.varley.com
 vartoken.com
 vasebasin.info
@@ -50004,7 +50011,6 @@ yucjherxyqe.com
 yudvl.org
 yuga.ru
 yugvawefin.cloud
-yuhuan.cc
 yuiiy.com
 yukclick.me
 yukishigure.com
