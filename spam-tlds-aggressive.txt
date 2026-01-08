@@ -95,6 +95,7 @@ fit
 fitness
 florist
 foo
+food
 forex
 forsale
 foundation
@@ -127,9 +128,11 @@ hot
 house
 how
 icu
+immo
 ink
 international
 irish
+jetzt
 jewelry
 joburg
 kim
