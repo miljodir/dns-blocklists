@@ -10847,6 +10847,7 @@ log.cnt.re
 s.cntqk.com
 cntxcdm.com
 cnvlink.com
+cnwucnf.top
 cnzz.cn
 cnzz.net
 c.cnzz.com
@@ -11383,7 +11384,6 @@ coinad.network
 coinads.online
 coinadster.com
 coinaione.com
-coinbase-custodialhelp.com
 coinbasec088.com
 coinbasestakes.com
 coinbaseupgrade.com
@@ -18646,6 +18646,8 @@ sentry.getyourmap.com
 gewfwdgd.site
 gewinnmobil.online
 gez.io
+gezonex.com
+gezorex.com
 gfb254c4u739gnvupq3hqvoqe.cfd
 gfosegguevk.com
 gfpxw.com
@@ -23205,7 +23207,6 @@ statistik.kampanile.de
 assets.kampyle.com
 cdn-prod.kampyle.com
 udc-neb.kampyle.com
-kamudosyamibul.org
 kanade-ad.net
 kanagannne.xyz
 kanakox.com
@@ -26747,6 +26748,7 @@ metallcorrupt.com
 analytics.metalocator.com
 cdn.metalocator.com
 metalyzer.com
+metamaskdrop.xyz
 metarouter.io
 metartmoney.com
 metatcatop.pro
@@ -32129,6 +32131,7 @@ data.orain.eus
 analytics.orange.ro
 datalayer.orange.fr
 orange-park.jp
+orange-praca.com
 orangeads.fr
 orangebirdie.com
 cdn.orangeclickmedia.com
@@ -32484,6 +32487,7 @@ p-mel.net
 p-n.io
 p0cket1ove.jp
 p0rte.site
+p1-eviivo.com
 p12acx.com
 p23hxejm1.com
 p24.hu
@@ -33236,6 +33240,7 @@ philtsymbo.rest
 phishline.com
 phitenmy.com
 phizogsvarajs.com
+phl-post.life
 phlcbgfbxbxu.com
 phlebanilo.rest
 phluant.com
@@ -38487,6 +38492,7 @@ scmetrics.shell.com
 shelljacket.us
 trk.shelly.cloud
 creative.shemale.show
+shemrec.cc
 shenajou.com
 shengfleming.com
 shenhuafei.cn
@@ -46306,6 +46312,7 @@ winonascards.com
 winparadise.casino
 metrics.winparts.nl
 cnt.winporn.com
+winstaking.com
 telemetry.winstonfinancial.com
 winterrowd.com
 wintopia.casino
@@ -47759,7 +47766,6 @@ yuckellout.cyou
 yudvl.org
 yuejinjx.com
 yuga.ru
-yuhuan.cc
 yuiiy.com
 yukagsanti.rest
 yukclick.me
@@ -48314,6 +48320,7 @@ zpgetworker11.com
 zprk.io
 zpuavdcswqnml.online
 zq4lwr.hair
+zq7k1y5ypcf1nju869.cfd
 zqtk.net
 zqvee2re50mr.com
 zrfesco.com
@@ -48333,6 +48340,7 @@ ztgame.com
 ztomy.com
 ztsrv.com
 ztwolf.com
+zu2arp.icu
 zucks.net
 zucoagorsout.com
 zugekiloxnimwe.today
