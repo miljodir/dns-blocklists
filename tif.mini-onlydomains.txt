@@ -6170,7 +6170,6 @@ key.887777.xyz
 90162.xyz
 90163.xyz
 90165.xyz
-90166.xyz
 90167.xyz
 90173.xyz
 90176.xyz
@@ -7423,6 +7422,7 @@ ambravioxar.net
 amczon.de
 amdepholdings.xyz
 amei.app
+ameli-conect.fr
 ameli-renouvlement.fr
 amendes-service.info
 americanconveyor.net
@@ -7495,6 +7495,7 @@ anaveragegirl.xyz
 anayatrading.net
 ancadailyoffice.app
 ancestralfoods.pe
+ancient-armenia.ru
 ancoplus.info
 ancytlq.cn
 palletplastico.cl.and318.xyz
@@ -7844,6 +7845,7 @@ ar7aydia1ect.ru
 arabic-youtube.xyz
 arapgege.app
 arapgege.tech
+arapps.me
 arashopping.info
 arbitrum.app
 arbitrum.forum
@@ -8222,6 +8224,7 @@ avdbos.de
 avec.ad
 avenirvsp.fr
 avertron.net
+avertronai-be.net
 avertus.de
 avhe-adguard.pro
 avhereuri.digital
@@ -8747,6 +8750,7 @@ fytqon.bed0kur5noop.ru
 jsmufe.bed0kur5noop.ru
 naxul7.bed0kur5noop.ru
 qivk8o.bed0kur5noop.ru
+d.doosun.bedzin.pl
 beeftexture.xyz
 yandex.sber.opxpemld3pqjyvd.udm.beellne.ru
 yandex.sbermarket.opxpemld3pqjyvd.udm.beellne.ru
@@ -8948,6 +8952,8 @@ app.biceps-bio.de
 bidcorpe.net
 bienen-werk.de
 biennaledellelanghe.art
+s.ecomade.bieszczady.pl
+e.walloship.bieszczady.pl
 bifboxswiss.de
 bifinex.xyz
 bifrostdesktop.app
@@ -8959,6 +8965,10 @@ bigbuyq.info
 bigbuyq.net
 bigbuyq.one
 bigcoin.farm
+biggerz-fr.fr
+biggerz-online.fr
+biggerz-site.fr
+biggerzfr.fr
 biggis-kunstecke.de
 bighter.xyz
 bightterr.xyz
@@ -8981,6 +8991,7 @@ billionair.in
 billionaire-media.de
 billioners.network
 billions.run
+billsafersei.cv
 nizotchauffage.bilty.be
 bimeks.net
 bimi.cz
@@ -9072,6 +9083,7 @@ bitspa.net
 bitvavo.xyz
 bitvavo-dashboard.pro
 bitvavoreview.net
+bitzestgenius-be.net
 biubiubiu.xyz
 biubiuwang.cn
 bixefocu.cloud
@@ -9476,6 +9488,7 @@ f0.bra9lupt5ev.ru
 fbk.bra9lupt5ev.ru
 i1.bra9lupt5ev.ru
 tqe.bra9lupt5ev.ru
+brabantiafrance.fr
 bracelets-made-by-tess.nl
 brack4712.xyz
 bracket-fern.ru
@@ -9786,6 +9799,7 @@ byperliquid.xyz
 bytefl0w.ru
 bytenuevo.net
 bytenuevo-fr.net
+bytequeryflow.digital
 bzaoffice.ovh
 gitlab.bzctoons.net
 accoun.bzgpj.cn
@@ -10362,6 +10376,7 @@ center-h.cloud
 center-h.tech
 center-j.cloud
 center-j.tech
+centos-linux.ru
 centralcavern.uk
 centralcoop.coop
 centralinn.qa
@@ -10405,6 +10420,7 @@ cfnlpgdxgys.xyz
 5uigytyufyfutrjhgyhgyftftdtrdtrsdtdt.cfolks.pl
 cfpro.ru
 cfrf.net
+cfspart-idp-impotsgouv.fr
 cfsscaseportal.xyz
 cgbqrmr.cn
 cghc-defender.pro
@@ -10582,6 +10598,7 @@ check-lighter.xyz
 check-update-today.me
 check-wefi.co
 check39291.info
+checkeligibility-meteora.xyz
 checker-bio.net
 checker-brevis.network
 checker-fogo.xyz
@@ -11101,6 +11118,7 @@ cnyi-defender.pro
 aaadesign.co.uk
 aacooling.co.uk
 aatyrecare.co.uk
+abbainternacional.co.mz
 abcbeautyltd.co.uk
 abcgraphics.co.uk
 abingdon-doubleglazing.co.uk
@@ -11162,6 +11180,7 @@ bblogger.co.uk
 mail.beaconscholars.co.ke
 beautifulbottles.co.uk
 beema.co.in
+www.benshamcentre.co.uk
 berwickpost.co.uk
 bestfortravel.co.uk
 besthomeofficecomputerdesk.co.uk
@@ -12053,6 +12072,7 @@ www.astenterprises.com.pk
 atasapka.com.tr
 audiosg.com.sg
 autodestak.com.br
+dentista.auwebdesign.com.br
 aw-google.com.cn
 axp-whatsapp.com.cn
 azgw168.com.au
@@ -12446,6 +12466,7 @@ kebabdelivery.com.br
 kg-google.com.cn
 kifortequimica.com.br
 kikocar.com.br
+kingstreetdental.com.au
 kk-google.com.cn
 askfor.kl.com.ua
 kopr.com.au
@@ -16342,6 +16363,7 @@ fis-versicherung.de
 fishampro.live
 fisicorequerimento.app
 fism.academy
+fistermes.my
 fitanic.amsterdam
 fitgirl-repacks.in
 fitgirl-repacks.pk
@@ -17530,6 +17552,7 @@ gaueudbuwdbuguuk.ws
 gaxibyehinu.cloud
 gay-live-chat.net
 eu.ads-hotel.gb.net
+arma-will.gb.net
 auto-marketing-solutions.gb.net
 pickcrane.gb.net
 rbbtsn0w.gb.net
@@ -18249,14 +18272,12 @@ guildcord.net
 guildflow.net
 guildit.net
 guildlead.net
-guildload.net
 guildmark.net
 guildmode.net
 guildoauth.net
 guildpost.net
 guildscan.net
 guildsign.net
-guildtransfer.net
 guildwebextendcontrolsupreme.xyz
 gukrathokeewhi.net
 guksodsouz.net
@@ -18290,6 +18311,8 @@ gwo-protect.pro
 gwrx-adguard.pro
 gwtsgb.cn
 gwvc-protect.pro
+gx-bet.fr
+gxbet-fr.fr
 pvsa.gxfugy.cn
 gy-web.net
 gydvr1be5dbe7169.net
@@ -18526,6 +18549,7 @@ hellowho.app
 hellpfresh.de
 helmorixy-ki.net
 help-antivirus.ru
+help-edf.fr
 help-service.info
 helpedwork.xyz
 helpforhelp.app
@@ -18681,6 +18705,7 @@ hnpy-defender.pro
 m.hnslynsbt.cn
 hnsnl.academy
 hnyhgd.art
+hobobot.net
 hochu-shoping.ru
 hodld-app.fi
 hodldapp.dev
@@ -19872,6 +19897,7 @@ jewelryhotsales.cn
 jewgle.app
 jewless.net
 jexaro-silon.net
+jexenex.us
 jfgcustoms.nl
 jfnvvb.cn
 jfqq-adguard.pro
@@ -20792,6 +20818,7 @@ lack-onkel.de
 lacrischel.my
 lacuisance.fr
 ladder-telegram-bot.ru
+laderbaj.net
 ladivine.art
 ladopin.art
 ladro.pl
@@ -21887,6 +21914,7 @@ mailattaccount.makeweb.co
 mailserviceatt.makeweb.co
 shsdjhjdysuwkwk.makeweb.co
 malisorgu.net
+maliyehazine.net
 malloftheemirates.my
 malo-oak.art
 malsebv.xyz
@@ -21965,6 +21993,7 @@ marketskillz.co
 accounts.marketwebb.me
 markkets.xyz
 markluneie.xyz
+markrets.xyz
 marktes.xyz
 marktgalerie.art
 marrowmart.digital
@@ -22615,6 +22644,7 @@ mondial-relay-compte.info
 mondialr-relivraison.info
 mondialrelaiycolis.fr
 mondialrelay-clients.fr
+mondialrelay-coli.fr
 mondialrelay-fr.net
 mondialrelay-passerelle.info
 mondialrelay-reprog.fr
@@ -22861,6 +22891,7 @@ admin.multa.net
 online.multa.net
 multi-bank.one
 multi-services.cloud
+multichainsolutionfix.xyz
 multidapplaunchpad.app
 multidexmedia.link
 multifilmy.pl
@@ -23236,6 +23267,7 @@ ncosh.net
 ncosmo.at
 nddfed7e394fa72d.net
 ndhello.us
+ndirection.kr
 ndut.link
 ndut.pro
 ontest.wao.ne.jp
@@ -24416,6 +24448,7 @@ orangesys.net
 oranqe.fr
 oravexindulme.cloud
 orb-shackle.ru
+orbet.us
 orbi.cologne
 orbit-codes.cloud
 orbitalnip.ru
@@ -24535,6 +24568,7 @@ oskorei.de
 oskupack.cl
 osmois.zone
 osmosis-zone.app
+osmosis-zone.net
 osmosiscoin.xyz
 osmosiss.zone
 osmosiszone.app
@@ -25585,7 +25619,9 @@ prime-euro.fr
 prime-forfait.fr
 prime-gestion.fr
 prime-instruction.fr
+prime-ll.fr
 prime-menu.fr
+prime-mescommandes.fr
 prime-monabo.fr
 prime-mv.fr
 prime-my-account.fr
@@ -25594,20 +25630,25 @@ prime-offers.fr
 prime-os.fr
 prime-panier.fr
 prime-pending.fr
+prime-pw.fr
 prime-receipt.fr
 prime-safety.fr
 prime-setting.fr
 prime-settings.fr
 prime-support.fr
+prime-tc.fr
 prime-validate.fr
 prime-vd.fr
 prime-verif.fr
 prime-verifications.fr
+prime-wp.fr
 prime-ws.fr
+prime-yn.fr
 prime-zone.ru
 primeatendimento.info
 primeatendimentoweb.info
 primeblog.us
+primebuy.fr
 primedigitals.net
 primeform.live
 primehilltoknix-ai.net
@@ -26528,6 +26569,7 @@ reloadammo.net
 rem-sp.ru
 rem1p0k3r.net
 remax-experts-billings.net
+remboursement-assurance-maladie.fr
 remboursement-confirmation.info
 remboursement-monerium.fr
 remboursementdoctolib.fr
@@ -26880,6 +26922,7 @@ rothschil.xyz
 rotterdamistop.nl
 rotularte.net
 roverify.dev
+roverlink.net
 rovexrn.cn
 rowafoy2.pro
 rowanstead.ru
@@ -27947,6 +27990,7 @@ smartbalance.cloud
 smartbio.me
 smartbusiness.me
 jdnonap-ar-eu.smartcat-proxy.net
+smartchainsprotocol.app
 smartconsumertips.live
 smartdeliveronauto.info
 smartdelivery.ca
@@ -29877,8 +29921,10 @@ trueaura.cat
 trueluck-fr.fr
 truetrainuallive.info
 trumpbtc.live
+trumpcas.live
 trumpcasino.us
 trumpgifts.us
+trumpluck.hk
 trumpmaga.art
 trumpmemes.xyz
 trumpprimecoin.xyz
@@ -30118,6 +30164,7 @@ tylersoffice.xyz
 tyndal.de
 tyni.at
 typolithml.ru
+tyryhg.info
 tyzgw.cn
 tzsxqxxjvzfeq.one
 tzup-protect.pro
@@ -30494,7 +30541,6 @@ us008web.us
 us020web.us
 us02webs.us
 us033web.us
-us03web.my
 us05-web.us
 us055web.us
 us07web.uk
@@ -31864,6 +31910,7 @@ windzero.ru
 wingman-legends.pro
 wingman-unternehmensberatung.de
 wingteam.net
+winnia.us
 winolawough.ru
 winoptimize.cn
 winorio-casino.fr
